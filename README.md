@@ -30,8 +30,25 @@ This project captures my **step-by-step journey** through core ML algorithms imp
 
 ## 📊 Sample Output
 
-> Add your own screenshot inside `/assets` folder
 
+<p align="center">
+  <img src="assets/output.png" width="300" height="220"/>
+  <img src="assets/output2.png" width="300" height="220"/>
+  <img src="assets/output3.png" width="300" height="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/output4.png" width="300" height="220"/>
+  <img src="assets/output1.png" width="300" height="220"/>
+  <img src="assets/output5.png" width="300" height="194"/>
+  
+</p>
+
+<p align="center">
+  <img src="assets/output7.png" width="300" height="220"/>
+  <img src="assets/output8.png" width="300" height="220"/>
+  <img src="assets/output9.png" width="300" height="220"/>
+</p>
 ---
 
 ## ⚙️ Tech Stack
